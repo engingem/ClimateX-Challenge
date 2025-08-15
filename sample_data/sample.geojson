@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [173.596093, -41.216070]
+      },
+      "properties": {
+        "address": "41 Opouri Road, Rai Valley 7194, New Zealand"
+      }
+    }
+  ]
+}
