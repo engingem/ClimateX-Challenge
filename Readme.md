@@ -1,16 +1,20 @@
-
-
 ### Installing Requirements
 
 Required Python version: 3.12
 
+Sync UV virtual environment and install dependencies:
+```bash
+uv sync
 ```
+Adding packages to the project:
+```bash
 uv add fastapi --extra standard
 ```
 
 Ruff formating used for this project.
 
-```ruff format```
+```bash
+ruff format```
 
 
 Running project in development mode with reloading:
